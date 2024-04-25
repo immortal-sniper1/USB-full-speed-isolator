@@ -1,4 +1,4 @@
-23363369558676395
+23365083631230665
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95647,6 +95647,13 @@ flyback
 0
 8
 8
+Z_mycustom_footprint_lib
+USB A male SMD
+
+
+0
+6
+5
 Z_mycustom_footprint_lib
 WDFN-8 (3x3)mm
 
