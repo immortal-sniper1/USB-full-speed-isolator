@@ -4234,12 +4234,28 @@
 		(uuid "fca369b7-3417-4813-ab88-8f9f0e9dab07")
 	)
 	(no_connect
+		(at 215.9 135.89)
+		(uuid "1bed0310-c9fa-4537-8b76-f1b827d014be")
+	)
+	(no_connect
 		(at 246.38 95.25)
 		(uuid "5c6b7ff9-b749-4598-9209-a126fdbd4934")
 	)
 	(no_connect
 		(at 118.11 97.79)
 		(uuid "8a89312c-19a3-4968-8ee5-6e8d6ffa2fa8")
+	)
+	(no_connect
+		(at 241.3 130.81)
+		(uuid "a9777760-d6fd-4d99-9abc-0a63edb3333c")
+	)
+	(no_connect
+		(at 40.64 76.2)
+		(uuid "aa1654c3-9ed3-4446-912f-6faf79f9a902")
+	)
+	(no_connect
+		(at 66.04 71.12)
+		(uuid "d6887e5c-b0d1-4e97-b76d-d33c0fc5f482")
 	)
 	(wire
 		(pts
@@ -4316,8 +4332,8 @@
 			(xy 177.8 20.955) (xy 177.8 161.925)
 		)
 		(stroke
-			(width 0)
-			(type default)
+			(width 0.75)
+			(type dash)
 		)
 		(uuid "11493db0-5af6-41e9-9cd9-3882385a38c5")
 	)
@@ -5544,6 +5560,17 @@
 		)
 		(uuid "1a3c45a1-7971-44cb-8646-235b49a2856a")
 	)
+	(label "D4-"
+		(at 193.04 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1a7528a4-25af-4bf9-8b63-668916c0cdd4")
+	)
 	(label "D2-"
 		(at 214.63 90.17 0)
 		(fields_autoplaced yes)
@@ -5598,6 +5625,17 @@
 			(justify left bottom)
 		)
 		(uuid "a0f312bf-6f14-4a08-84d1-0a9ab669ec86")
+	)
+	(label "D4+"
+		(at 193.04 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a6a34639-62c7-4647-a790-1ca0eb26ea96")
 	)
 	(label "SDP_1"
 		(at 115.57 128.27 0)
